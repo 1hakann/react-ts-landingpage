@@ -1,5 +1,6 @@
 import { Suspense } from 'react';
 import ReactDOM from 'react-dom/client'
+import './assets/css/tailwind.css';
 // Router
 import { RouterProvider } from 'react-router-dom';
 import router from './router/index';
